@@ -2,7 +2,7 @@
 
 At the time of the conference, our Jupyter notebooks, along with links to the relevant papers and data, will be available here.
 
-## Overview
+**Overview**
 - [Introduction](#introduction)
 - [Format and Schedule](#format-and-schedule)
 
