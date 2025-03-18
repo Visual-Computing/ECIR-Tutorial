@@ -3,8 +3,8 @@
 At the time of the conference, our Jupyter notebooks, along with links to the relevant papers and data, will be available here.
 
 ## Overview
-- [Introduction](#1-introduction)
-- [Format and Schedule](#2-format-and-schedule)
+- [Introduction](#introduction)
+- [Format and Schedule](#format-and-schedule)
 
 ---
 
