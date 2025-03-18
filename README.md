@@ -1,4 +1,6 @@
-# ECIR2025 Tutorial: "Advanced Methods for Visual Information Retrieval and Exploration in Large Multimedia Collections"
+# ECIR2025 Tutorial: Advanced Methods for Visual Information Retrieval and Exploration in Large Multimedia Collections
+
+At the time of the conference, our Jupyter notebooks, along with links to the relevant papers and data, will be available here.
 
 ## Abstract
 This tutorial presents advanced methods for efficiently searching and exploring large visual datasets, addressing the increasing demand for high-performance visual retrieval systems as multimedia content grows exponentially.
