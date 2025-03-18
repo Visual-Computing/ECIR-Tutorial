@@ -2,7 +2,14 @@
 
 At the time of the conference, our Jupyter notebooks, along with links to the relevant papers and data, will be available here.
 
-## Abstract
+## Overview
+- [Introduction](#1-introduction)
+- [Format and Schedule](#2-format-and-schedule)
+
+---
+
+
+## Introduction
 This tutorial presents advanced methods for efficiently searching and exploring large visual datasets, addressing the increasing demand for high-performance visual retrieval systems as multimedia content grows exponentially.
 
 We will begin by covering the principles of **large visual encoders**, emphasizing techniques for generating and improving compact, high-quality general-purpose visual descriptors. Next, we will explore strategies to enhance **cross-modal retrieval**. Participants will gain insights into **approximate nearest neighbor search methods**, with a focus on **graph-based approaches** that maximize search efficiency in dynamic datasets.
