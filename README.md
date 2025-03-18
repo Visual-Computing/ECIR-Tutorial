@@ -1,6 +1,8 @@
 # ECIR2025 Tutorial: Advanced Methods for Visual Information Retrieval and Exploration in Large Multimedia Collections
 
-At the time of the conference, our Jupyter notebooks, along with links to the relevant papers and data, will be available here. This tutorial, presented by Prof. Dr. Kai Barthel, M.Sc. Nico Hezel, and M.Sc. Konstantin Schall from the [Visual Computing Group](https://visual-computing.com/) at HTW Berlin, will take place at [ECIR 2025](https://ecir2025.eu/).
+This tutorial, presented by Prof. Dr. Kai Barthel, M.Sc. Nico Hezel, and M.Sc. Konstantin Schall from the [Visual Computing Group](https://visual-computing.com/) at HTW Berlin, will take place at [ECIR 2025](https://ecir2025.eu/). 
+
+At the time of the conference, our Jupyter notebooks, along with links to the relevant papers and data, will be available here.
 
 **Overview**
 - [Introduction](#introduction)
@@ -24,10 +26,10 @@ Hands-on exercises provide practical experience with the concepts discussed usin
 Kai Uwe Barthel is a professor at the Institute for Media and Computing at HTW Berlin, heading the Visual Computing Group. His work focuses on technologies for simplifying media retrieval, including image understanding, retrieval, metric learning, and visual exploration. During his PhD at TU Berlin, he specialized in fractal image compression and later led a 3D-video coding research project. As head of R&D at N-Tec Media and LuraTech Inc., he contributed to the JPEG2000 standard, developing advanced image and video compression solutions. Since 2001, he has taught image analysis, machine learning, and information retrieval at HTW Berlin. In 2009, he founded pixolution, a company specializing in visual image search. Prof. Barthel holds numerous patents, publications, and awards.
 
 ### **Nico Hezel**  
-Nico Hezel is a researcher in the Visual Computing Group at HTW Berlin, focusing on content-based information retrieval and large-scale image analysis. He is pursuing a PhD at Humboldt University, developing a "Dynamic Exploration Graph" for efficient image search in evolving datasets. His innovations earned the Best Demo Award at ICMR 2018 [1] and ACM Multimedia 2019 [2] for projects enhancing search capabilities. In 2024, he won the SISAP Indexing Challenge for advancements in graph-based nearest neighbor search [3]. Hezel also lectures on machine learning, computer vision, and image analysis.
+Nico Hezel is a researcher in the Visual Computing Group at HTW Berlin, focusing on content-based information retrieval and large-scale image analysis. He is pursuing a PhD at Humboldt University, developing a "Dynamic Exploration Graph" for efficient image search in evolving datasets. His innovations earned the Best Demo Award at ICMR 2018 and ACM Multimedia 2019 for projects enhancing search capabilities. In 2024, he won the SISAP Indexing Challenge for advancements in graph-based nearest neighbor search. Hezel also lectures on machine learning, computer vision, and image analysis.
 
 ### **Konstantin Schall**  
-Konstantin Schall researches general-purpose retrieval networks within HTW Berlin’s Visual Computing Group, focusing on adaptable retrieval applications. Since 2024, he has been a Principal Machine Learning Scientist at Mediaopt GmbH, leading product retrieval for online shopping. As a PhD candidate at Humboldt University, his work has received awards such as the Best Demo Award at ACM Multimedia [2] and two Best Video Browser System Awards at the Video Browser Showdown (2022, 2023) [4, 5]. He also teaches machine learning and information retrieval.
+Konstantin Schall researches general-purpose retrieval networks within HTW Berlin’s Visual Computing Group, focusing on adaptable retrieval applications. Since 2024, he has been a Principal Machine Learning Scientist at Mediaopt GmbH, leading product retrieval for online shopping. As a PhD candidate at Humboldt University, his work has received awards such as the Best Demo Award at ACM Multimedia and two Best Video Browser System Awards at the Video Browser Showdown (2022, 2023). He also teaches machine learning and information retrieval.
 
 
 
