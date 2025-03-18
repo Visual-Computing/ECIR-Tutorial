@@ -6,7 +6,6 @@ At the time of the conference, our Jupyter notebooks, along with links to the re
 - [Introduction](#introduction)
 - [Format and Schedule](#format-and-schedule)
 
----
 
 
 ## Introduction
@@ -17,6 +16,8 @@ We will begin by covering the principles of **large visual encoders**, emphasizi
 In addition, the tutorial introduces innovative **visualization techniques for high-dimensional data**, such as **grid-based sorting**, which enable intuitive navigation and exploration of extensive image collections.
 
 Hands-on exercises provide practical experience with the concepts discussed using **Jupyter notebooks** and **interactive demonstrations**. This tutorial will equip researchers, practitioners, and students in **information retrieval, computer vision, and data science** with both basic and advanced skills to efficiently search and explore large visual datasets.
+
+
 
 ## Format and Schedule
 
