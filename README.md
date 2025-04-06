@@ -8,6 +8,7 @@ At the time of the conference, our Jupyter notebooks, along with links to the re
 - [Introduction](#introduction)
 - [Presenters](#presenters)
 - [Format and Schedule](#format-and-schedule)
+- [Hands on notebooks](#notebooks)
 
 
 
@@ -63,4 +64,12 @@ This tutorial will take **half a day** (a total of **3 hours plus breaks**) and 
 
 ### 5. Conclusion
 - **Summary** of techniques for effective visualization, search, and exploration of high-dimensional image data  
-- **Final Q&A** and recap of key tutorial points  
+- **Final Q&A** and recap of key tutorial points
+
+## Notebooks
+
+- [Image Embeddings for Domain-Independent Image Retrieval](https://colab.research.google.com/drive/1OS6_ZJgspG2uT025jpLy9wpRn1TNv6KJ)
+- [Approximate Nearest Neighbor Search using the Dynamic Exploration Graph](https://colab.research.google.com/drive/1O1OjouD0lv7zFxTQp9rMRlbVWHDlRCCc)
+- [Image Arrangements using Linear Assignment Sorting](https://colab.research.google.com/drive/1NzwQBlMfmHWunl0OSrqFdJKeK4nIdu-s)
+
+
