@@ -1,6 +1,6 @@
 # ECIR2025 Tutorial: Advanced Methods for Visual Information Retrieval and Exploration in Large Multimedia Collections
 
-This tutorial, presented by Prof. Dr. Kai Barthel, M.Sc. Nico Hezel, and M.Sc. Konstantin Schall from the [Visual Computing Group](https://visual-computing.com/) at HTW Berlin, will take place at [ECIR 2025](https://ecir2025.eu/). 
+This tutorial, presented by Prof. Dr. Kai Barthel, M.Sc. Nico Hezel, and M.Sc. Konstantin Schall from the [Visual Computing Group](https://visual-computing.com/) at HTW Berlin, took place at [ECIR 2025](https://ecir2025.eu/). 
 
 The tutorial slides can be found [here](https://docs.google.com/presentation/d/1LyVHJdSKILwAmz4qe6F3AUpSLWqUnHBz39pTgq1DLXM/edit?usp=sharing), and all associated notebooks are listed at the bottom of the page.
 
